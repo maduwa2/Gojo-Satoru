@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,30 +19,30 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94 74 023 1163']
-global.premium = ['+94 74 023 1163']
-global.ownernomer = '+94 74 023 1163'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'silent bot'
-global.footer = '©NexusNwInc.'
+global.owner = ['+94 72 392 1905']
+global.premium = ['+94 72 392 1905']
+global.ownernomer = '+94 72 392 1905'
+global.ownername = '🐦ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐'
+global.botname = 'ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐'
+global.footer = '©ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = 'kaweeshvara'
+global.packname = 'ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐'
+global.author = 'Hashan'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'හලි ✓',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
     group: 'Feature Used Only For Groups!',
     private: 'Features Used Only For Private Chat!',
     bot: 'This Feature Is Only For Bot',
-    wait: 'Wait A minute...',
+    wait: 'ටිකක් ඉදපම් පගෝ...',
     error: 'Error! Maybe Api Key Is Expired🤔!',
     endLimit: 'Your Daily Limit Has Expired, The Limit Will Be Reset Every 12 Hours',
 }
