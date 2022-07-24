@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+94 74 023 1163']
-global.premium = ['+94 74 023 1163']
-global.ownernomer = '+94 74 023 1163'
-global.ownername = '🐦Star Boy Nexus'
-global.botname = 'silent bot'
+global.owner = ['+94 72 392 1905']
+global.premium = ['+94 72 392 1905']
+global.ownernomer = '+94 72 392 1905'
+global.ownername = ' ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐'
+global.botname = 'bot hasha'
 global.footer = '©NexusNwInc.'
 global.ig = 'https://github.com/nexusNw'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/nexusNw/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel/UCqoUjPvDdb0kjXNYdvPPpHQ'
-global.packname = 'Gojo-Satoru'
-global.author = 'kaweeshvara'
+global.packname = 'bot-hasha'
+global.author = 'hashan'
 global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
