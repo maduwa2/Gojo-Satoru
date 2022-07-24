@@ -1,6 +1,6 @@
 //═══════════════════════════════════════════════════════//
 //
-//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 𝓷𝓮𝔁𝓾𝓼𝓝𝔀
+//                              𝙶𝙾𝙹𝙾-𝚂𝙰𝚃𝙾𝚁𝚄 𝓫𝔂 Hasha
 //𝙰𝙳𝙾𝙿𝚃𝙴𝙳 𝙵𝚁𝙾𝙼  𝚂𝙲𝚁𝙸𝙿𝚃 𝙾𝙵 𝙲𝙷𝙴𝙴𝙼𝚂𝙱𝙾𝚃 𝚅2 𝙱𝚈 𝙳𝙶𝚇𝚎𝚘𝚗 
 //
 //════════════════════════════//
@@ -19,18 +19,18 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['+972522972297']
-global.premium = ['+97252-217-2297']
-global.ownernomer = '+97252-271-2297'
-global.ownername = 'ㅤ꯭𝐒𝐘𝛥𝛭ㅤ꯭𝜥𝛬𝑅𝛵𝛨𝛪𝜥ㅤ꯭𝐒'
-global.botname = '𝑺𝜥𝑺 𝐵𝜣𝑻'
-global.footer = '©ㅤ꯭𝐒𝐘𝛥𝛭ㅤ꯭𝜥𝛬𝑅𝛵𝛨𝛪𝜥ㅤ꯭𝐒.'
+global.owner = ['+94 72 392 1905']
+global.premium = ['+94 72 392 1905']
+global.ownernomer = '+94 72 392 1905'
+global.ownername = 'ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐'
+global.botname = 'ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐'
+global.footer = '© ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐.'
 global.ig = 'https://github.com/syam2k6'
 global.region = 'India, South India, Kerala'
 global.sc = 'https://github.com/syam2k6/Gojo-Satoru'
 global.myweb = 'https://youtube.com/channel'
-global.packname = 'sticker by _sks_boss_'
-global.author = '𝑺𝜥𝑺 𝐵𝜣𝑻⁩'
+global.packname = 'sticker by _bot_hasha_'
+global.author = 'ツ𝐁𝐎𝐓 𝐇𝐀𝐒𝐇𝐀࿐⁩'
 
 
 
